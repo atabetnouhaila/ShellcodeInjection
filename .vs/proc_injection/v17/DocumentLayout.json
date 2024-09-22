@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atabe\\source\\repos\\proc_injection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B2B165-BC3E-49C6-91E2-3368E42B3B03}|proc_injection\\proc_injection.vcxproj|C:\\Users\\atabe\\source\\repos\\proc_injection\\proc_injection\\proc_injection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0B2B165-BC3E-49C6-91E2-3368E42B3B03}|proc_injection\\proc_injection.vcxproj|solutionrelative:proc_injection\\proc_injection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "proc_injection.cpp",
+              "DocumentMoniker": "C:\\Users\\atabe\\source\\repos\\proc_injection\\proc_injection\\proc_injection.cpp",
+              "RelativeDocumentMoniker": "proc_injection\\proc_injection.cpp",
+              "ToolTip": "C:\\Users\\atabe\\source\\repos\\proc_injection\\proc_injection\\proc_injection.cpp",
+              "RelativeToolTip": "proc_injection\\proc_injection.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAADEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T10:47:11.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
